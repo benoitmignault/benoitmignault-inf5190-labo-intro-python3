@@ -1,0 +1,8 @@
+Client numéro 0088
+
+               No de produit              Qte           Prix     Total (tx)
+Produit #1     RTU43245                    13          69.99        1046.12
+Produit #2     UYT11233                     5          10.75          53.75
+
+Aucun rabais est applicable sur cette commande !
+Total : 1099.87
