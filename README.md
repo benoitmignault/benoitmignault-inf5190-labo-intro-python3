@@ -1,1 +1,1 @@
-# benoitmignault-inf5190-labo-intro-python3
+inf5190-labo-intro-python3
